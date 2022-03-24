@@ -52,7 +52,12 @@ public class STRINGMARAVILLOSO{
         String M = "MARAVILLOSO";
         
         System.out.println("LA versió que tenim a github ha estat actualitzada i és mes actual que la que tinc en local");
- 
+        
+        //Imprime la parte superior
+        imprimirSuperior(M);
+        
+        //Imprime la parte inferior
+        imprimirInferior(M);
         
        
     }    
